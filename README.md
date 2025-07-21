@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberdevops313" alt="cyberdevops313" /></a> </p>
 
+I'm actively building a foundation in threat detection and analysis as I pursue SOC analyst roles.
+
 - 🔭 I’m currently working on **Security + certification**
 
 <h3 align="left">Connect with me:</h3>
